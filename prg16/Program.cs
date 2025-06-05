@@ -1,6 +1,7 @@
-﻿        //frequency of a value/digit(how many times a number appeared)
+﻿//frequency of a value/digit(how many times a number appeared)
 
 using System;
+using System.Collections.Generic;
 public class Solution
 {
     public static void Main(string[] args)
