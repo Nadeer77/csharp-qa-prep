@@ -10,7 +10,7 @@ public class Solution
         int seclargest = arr[1];
         foreach (int num in arr)
         {
-            if (num > largest)
+            if (num >= largest)
             {
                 seclargest = largest;
                 largest = num;
