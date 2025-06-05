@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Except .gitignore (important!)
+!.gitignore
+
+# Allow directories (needed to reach Program.cs)
+!*/
+
+# Keep all Program.cs files in any directory
+!**/Program.cs
