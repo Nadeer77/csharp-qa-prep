@@ -8,6 +8,7 @@ public class Solution
     {
         int num = 10;
         bool isPrime = false;
+        Console.Write($"Prime Numbers from 1 to {num} are :");
 
         for (int i = 1; i <= num; i++)
         {
@@ -28,7 +29,7 @@ public class Solution
             }
             if (isPrime)
             {
-                Console.WriteLine($"Prime Numbers from 1 to {num} are : {i}");
+                Console.Write(i+" ");
             }
         }
     }
