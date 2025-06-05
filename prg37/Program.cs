@@ -3,13 +3,13 @@
 using System;
 public class Program
 {
-    public int[] RunningSum(int[] nums)
+    public void RunningSum(int[] nums)
     {
         for (int i = 1; i < nums.Length; i++)
         {
             nums[i] += nums[i - 1];
         }
-        return nums;
+        
     }
 }
 public class Solution
@@ -18,7 +18,7 @@ public class Solution
     {
         Program pro = new Program();
         int[] nums = { 3, 1, 2, 10, 1 };
-        nums = pro.RunningSum(nums);
+        pro.RunningSum(nums);
         
         Console.Write("Running Sum is : ");
         foreach (int i in nums)
