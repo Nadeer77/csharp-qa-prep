@@ -1,0 +1,14 @@
+/home/Nadeer/Desktop/QA/prg1/bin/Debug/net9.0/prg1
+/home/Nadeer/Desktop/QA/prg1/bin/Debug/net9.0/prg1.deps.json
+/home/Nadeer/Desktop/QA/prg1/bin/Debug/net9.0/prg1.runtimeconfig.json
+/home/Nadeer/Desktop/QA/prg1/bin/Debug/net9.0/prg1.dll
+/home/Nadeer/Desktop/QA/prg1/bin/Debug/net9.0/prg1.pdb
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.GeneratedMSBuildEditorConfig.editorconfig
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.AssemblyInfoInputs.cache
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.AssemblyInfo.cs
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.csproj.CoreCompileInputs.cache
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.dll
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/refint/prg1.dll
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.pdb
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/prg1.genruntimeconfig.cache
+/home/Nadeer/Desktop/QA/prg1/obj/Debug/net9.0/ref/prg1.dll

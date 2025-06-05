@@ -1,0 +1,14 @@
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.GeneratedMSBuildEditorConfig.editorconfig
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.AssemblyInfoInputs.cache
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.AssemblyInfo.cs
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.csproj.CoreCompileInputs.cache
+/home/Nadeer/Desktop/QA/prg38/bin/Debug/net9.0/prg38
+/home/Nadeer/Desktop/QA/prg38/bin/Debug/net9.0/prg38.deps.json
+/home/Nadeer/Desktop/QA/prg38/bin/Debug/net9.0/prg38.runtimeconfig.json
+/home/Nadeer/Desktop/QA/prg38/bin/Debug/net9.0/prg38.dll
+/home/Nadeer/Desktop/QA/prg38/bin/Debug/net9.0/prg38.pdb
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.dll
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/refint/prg38.dll
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.pdb
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/prg38.genruntimeconfig.cache
+/home/Nadeer/Desktop/QA/prg38/obj/Debug/net9.0/ref/prg38.dll

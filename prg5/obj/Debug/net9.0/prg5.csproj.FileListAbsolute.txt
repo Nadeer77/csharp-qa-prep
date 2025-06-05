@@ -1,0 +1,14 @@
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.GeneratedMSBuildEditorConfig.editorconfig
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.AssemblyInfoInputs.cache
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.AssemblyInfo.cs
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.csproj.CoreCompileInputs.cache
+/home/Nadeer/Desktop/QA/prg5/bin/Debug/net9.0/prg5
+/home/Nadeer/Desktop/QA/prg5/bin/Debug/net9.0/prg5.deps.json
+/home/Nadeer/Desktop/QA/prg5/bin/Debug/net9.0/prg5.runtimeconfig.json
+/home/Nadeer/Desktop/QA/prg5/bin/Debug/net9.0/prg5.dll
+/home/Nadeer/Desktop/QA/prg5/bin/Debug/net9.0/prg5.pdb
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.dll
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/refint/prg5.dll
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.pdb
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/prg5.genruntimeconfig.cache
+/home/Nadeer/Desktop/QA/prg5/obj/Debug/net9.0/ref/prg5.dll

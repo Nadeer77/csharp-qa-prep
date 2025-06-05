@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPUR+pQUp8o=",
+  "success": true,
+  "projectFilePath": "/home/Nadeer/Desktop/QA/prg24/prg24.csproj",
+  "expectedPackageFiles": [
+    "/home/Nadeer/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/Nadeer/Desktop/QA/prg23/bin/Debug/net9.0/prg23
+/home/Nadeer/Desktop/QA/prg23/bin/Debug/net9.0/prg23.deps.json
+/home/Nadeer/Desktop/QA/prg23/bin/Debug/net9.0/prg23.runtimeconfig.json
+/home/Nadeer/Desktop/QA/prg23/bin/Debug/net9.0/prg23.dll
+/home/Nadeer/Desktop/QA/prg23/bin/Debug/net9.0/prg23.pdb
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.GeneratedMSBuildEditorConfig.editorconfig
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.AssemblyInfoInputs.cache
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.AssemblyInfo.cs
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.csproj.CoreCompileInputs.cache
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.dll
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/refint/prg23.dll
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.pdb
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/prg23.genruntimeconfig.cache
+/home/Nadeer/Desktop/QA/prg23/obj/Debug/net9.0/ref/prg23.dll

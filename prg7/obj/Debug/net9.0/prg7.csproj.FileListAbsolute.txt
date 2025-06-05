@@ -1,0 +1,14 @@
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.GeneratedMSBuildEditorConfig.editorconfig
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.AssemblyInfoInputs.cache
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.AssemblyInfo.cs
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.csproj.CoreCompileInputs.cache
+/home/Nadeer/Desktop/QA/prg7/bin/Debug/net9.0/prg7
+/home/Nadeer/Desktop/QA/prg7/bin/Debug/net9.0/prg7.deps.json
+/home/Nadeer/Desktop/QA/prg7/bin/Debug/net9.0/prg7.runtimeconfig.json
+/home/Nadeer/Desktop/QA/prg7/bin/Debug/net9.0/prg7.dll
+/home/Nadeer/Desktop/QA/prg7/bin/Debug/net9.0/prg7.pdb
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.dll
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/refint/prg7.dll
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.pdb
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/prg7.genruntimeconfig.cache
+/home/Nadeer/Desktop/QA/prg7/obj/Debug/net9.0/ref/prg7.dll
