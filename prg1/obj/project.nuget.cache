@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "REGbI7UCTrg=",
+  "dgSpecHash": "Y50nHJgrKmg=",
   "success": true,
-  "projectFilePath": "/home/Nadeer/Desktop/QA/prg1/prg1.csproj",
+  "projectFilePath": "/home/Nadeer/Desktop/csharp-qa-prep/csharp-qa-prep/prg1/prg1.csproj",
   "expectedPackageFiles": [
     "/home/Nadeer/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.4/microsoft.aspnetcore.app.ref.9.0.4.nupkg.sha512"
   ],
