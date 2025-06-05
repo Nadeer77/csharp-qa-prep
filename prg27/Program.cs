@@ -13,21 +13,20 @@ public class Solution
             Console.WriteLine($"Element {i + 1}");
             arr[i] = int.Parse(Console.ReadLine()!);
         }
-        int count = 0;
+        int primecount = 0;
         Console.Write("Prime numbers are : ");
         foreach (int i in arr)
         {
             if (IsPrime(i))
             {
                 Console.Write(i + "  ");
-                count++;
+                primecount++;
             }
         }
-        Console.WriteLine("Prime Number Count: "+count);
+        Console.WriteLine("\nPrime Number Count: "+primecount);
     }
     public static bool IsPrime(int num)
     {
-
         if (num <= 1)
         {
             return false;
@@ -40,6 +39,5 @@ public class Solution
             }
         }
         return true;
-        
     }
 }
