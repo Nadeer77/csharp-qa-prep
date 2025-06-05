@@ -1,4 +1,6 @@
-﻿using System;
+﻿        //Data Encapsulation example
+
+using System;
 public class Person
 {
     private string name = "";
