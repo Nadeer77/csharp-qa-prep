@@ -61,7 +61,7 @@ public class Solution
 
 using System;
 
-public class HelloWorld
+public class Program
 {
     public static void Main(string[] args)
     {
