@@ -1,81 +1,81 @@
-﻿        //Move zeroes problem
-        // one apppraoch : using a new array for storing the resultant array after swap
+﻿//         //Move zeroes problem
+//         // one apppraoch : using a new array for storing the resultant array after swap
 
-using System;
+// using System;
 
-public class Solution
-{
-    public int[] MoveZeroes (int[] nums)
-    {
-        int j=0;
-        for (int i = 0; i < nums.Length; i++)
-        {
-            if (nums[i] != 0)
-            {
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
-                j++;
-            }
-        }
-        return nums;
-    }
-}
+// public class Solution
+// {
+//     public int[] MoveZeroes (int[] nums)
+//     {
+//         int j=0;
+//         for (int i = 0; i < nums.Length; i++)
+//         {
+//             if (nums[i] != 0)
+//             {
+//                 int temp = nums[i];
+//                 nums[i] = nums[j];
+//                 nums[j] = temp;
+//                 j++;
+//             }
+//         }
+//         return nums;
+//     }
+// }
 
-public class HelloWorld
-{
-    public static void Main(string[] args)
-    {
-        Solution sol = new Solution();
-        int[] nums = { 1, 0, 2, 0, 4, 0, 5 };
-        int[] result = sol.MoveZeroes(nums);
-        Console.WriteLine("After moving Zeroes:");
-        foreach (int num in result)
-        {
-            Console.WriteLine(num);
-        }
+// public class HelloWorld
+// {
+//     public static void Main(string[] args)
+//     {
+//         Solution sol = new Solution();
+//         int[] nums = { 1, 0, 2, 0, 4, 0, 5 };
+//         int[] result = sol.MoveZeroes(nums);
+//         Console.WriteLine("After moving Zeroes:");
+//         foreach (int num in result)
+//         {
+//             Console.WriteLine(num);
+//         }
 
-    }
-}
-
-
-        // another approach : storing in the same array after swap
+//     }
+// }
 
 
-using System;
+//         // another approach : storing in the same array after swap
 
-public class Solution
-{
-    public void MoveZeroes (int[] nums)
-    {
-        int j=0;
-        for(int i=0;i<nums.Length;i++)
-        {
-            if(nums[i]!=0)
-           {
-               int temp=nums[i];
-               nums[i]=nums[j];
-               nums[j]=temp;
-               j++;
-           }
-        }
-    }
-}
 
-public class HelloWorld
-{
-    public static void Main(string[] args)
-    {
-        Solution sol = new Solution();
-        int[] nums = { 1, 0, 2, 0, 4, 0, 5 };
-        sol.MoveZeroes(nums);
-        Console.WriteLine("After moving Zeroes:");
-        foreach (int num in nums)
-        {
-            Console.WriteLine(num);
-        }
-    }
-} 
+// using System;
+
+// public class Solution
+// {
+//     public void MoveZeroes (int[] nums)
+//     {
+//         int j=0;
+//         for(int i=0;i<nums.Length;i++)
+//         {
+//             if(nums[i]!=0)
+//            {
+//                int temp=nums[i];
+//                nums[i]=nums[j];
+//                nums[j]=temp;
+//                j++;
+//            }
+//         }
+//     }
+// }
+
+// public class HelloWorld
+// {
+//     public static void Main(string[] args)
+//     {
+//         Solution sol = new Solution();
+//         int[] nums = { 1, 0, 2, 0, 4, 0, 5 };
+//         sol.MoveZeroes(nums);
+//         Console.WriteLine("After moving Zeroes:");
+//         foreach (int num in nums)
+//         {
+//             Console.WriteLine(num);
+//         }
+//     }
+// } 
 
         // Move zeroes using while loop
 
@@ -110,6 +110,7 @@ public class Program
         Console.WriteLine("BEFORE MOVING ZEROES:");
         for (int i = 0; i < size; i++)
         {
+            Console.Write($"Element {i + 1} : ");
             arr[i] = Convert.ToInt32(Console.ReadLine());
         }
 
@@ -119,6 +120,7 @@ public class Program
         int k = 0;
         while (k < arr.Length)
         {
+            Console.Write($"\nElement {k + 1} : ");
             Console.Write(arr[k] + " ");
             k++;
         }
