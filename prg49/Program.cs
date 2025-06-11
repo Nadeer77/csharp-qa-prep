@@ -1,4 +1,6 @@
-﻿using System;
+﻿        //Data abstraction example using Abstract class
+
+using System;
 public interface IShape
 {
     public void Draw();
