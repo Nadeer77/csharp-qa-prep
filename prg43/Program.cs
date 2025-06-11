@@ -13,7 +13,7 @@ public class Person
         return name;
     }
 }
-public class Example
+public class Solution
 {
     public static void Main(string[] args)
     {
