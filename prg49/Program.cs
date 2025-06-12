@@ -1,4 +1,4 @@
-﻿        //Data abstraction example using Abstract class
+﻿        // Data Abstraction using Interface
 
 using System;
 public interface IShape
