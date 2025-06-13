@@ -1,5 +1,7 @@
-﻿using System;
-// 1️⃣ SINGLE INHERITANCE
+﻿        //All inheritance in one
+
+using System;
+
 class Vehicle
 {
     public void Start()
@@ -7,6 +9,7 @@ class Vehicle
         Console.WriteLine("Vehicle started");
     }
 }
+// 1️⃣ SINGLE INHERITANCE
 class Car : Vehicle // Single Inheritance
 {
     public void Drive()
