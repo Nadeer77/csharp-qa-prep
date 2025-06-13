@@ -1,16 +1,15 @@
 ﻿        //Nested switc example
 
 using System;
-
 public class Program
 {
     public static void Main()
     {
         Console.Write("Enter department (CSE/ECE): ");
-        string dept = Console.ReadLine().ToUpper();
+        string dept = Console.ReadLine()!.ToUpper();
 
         Console.Write("Enter year (1/2): ");
-        int year = Convert.ToInt32(Console.ReadLine());
+        int year = Convert.ToInt32(Console.ReadLine()!);
 
         switch (dept)
         {
@@ -43,7 +42,7 @@ public class Program
                         break;
                 }
                 break;
-
+                
             default:
                 Console.WriteLine("Invalid department");
                 break;
