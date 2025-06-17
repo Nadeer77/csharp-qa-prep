@@ -1,4 +1,6 @@
-﻿using System;
+﻿        //GameDevHQ unity basics- task 2(if,else,else if)
+
+using System;
 
 public class Player
 {
