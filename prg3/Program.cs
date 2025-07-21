@@ -126,3 +126,51 @@ public class Program
         }
     }
 }
+
+using System;
+public class Solution
+{
+    public void MoveZeroes(int[] arr)
+    {
+        int j=0;
+        int i=0;
+        while(i<arr.Length)
+        {
+            if(arr[i]!=0)
+            {
+                int temp = arr[i];
+                arr[i]=arr[j];
+                arr[j]=temp;
+                j++;
+            }
+            i++;
+        }
+    }
+}
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Enter the size:");
+        int size = Convert.ToInt32(Console.ReadLine());
+        int[] arr = new int[size];
+        Console.WriteLine("BEFORE MOVING ZEROES:");
+        for (int i = 0; i < size; i++)
+        {
+            Console.Write($"Element {i + 1} : ");
+            arr[i] = Convert.ToInt32(Console.ReadLine());
+        }
+
+        Solution sol = new Solution();
+        sol.MoveZeroes(arr);
+        Console.WriteLine("\nAFTER MOVING ZEROES:");
+        int k = 0;
+        while (k < arr.Length)
+        {
+            Console.Write($"\nElement {k + 1} : ");
+            Console.Write(arr[k] + " ");
+            k++;
+        }
+    }
+}

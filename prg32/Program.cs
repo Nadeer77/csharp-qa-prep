@@ -14,8 +14,6 @@ public class Solution
 
         foreach (char ch in input)
         {
-            if (char.IsLetter(ch))
-            {
                 if ("aeiou".Contains(ch))
                 {
                     vowels++;
@@ -24,7 +22,6 @@ public class Solution
                 {
                     consonants++;
                 }
-            }
         }
         Console.WriteLine($"Vowel count : {vowels}");
         Console.WriteLine($"Consonant count : {consonants}");

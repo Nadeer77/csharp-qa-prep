@@ -1,4 +1,4 @@
-﻿        //finding the second largest word in a stringusing foreach loop
+﻿        //finding the second largest word in a string using foreach loop
 
 using System;
 
