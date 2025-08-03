@@ -1,4 +1,4 @@
-﻿        // IEnumertor and IEnumerable example
+﻿        // IEnumertor and IEnumerable example using numbers(int)
 
 using System;
 using System.Collections;
@@ -18,7 +18,7 @@ class Program
         MyCollection collection = new MyCollection();
         foreach (int number in collection)
         {
-            Console.WriteLine(number);  // Output: 1 2 3
+            Console.WriteLine(number);  
         }
     }
 }
