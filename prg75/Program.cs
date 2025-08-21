@@ -6,7 +6,7 @@ using System.Collections;
 public class Fruits : IEnumerable
 {
     string[] fruitList = { "Apple", "Banana", "Cherry" };
-
+    
     public IEnumerator GetEnumerator()
     {
         return fruitList.GetEnumerator();
