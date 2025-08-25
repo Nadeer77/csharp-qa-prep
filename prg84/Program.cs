@@ -34,7 +34,7 @@ public class Node
         {
             Next.reverse();
         }
-        Console.Write("|" + Data + "|<-");
+        Console.Write("|" + Data + "|<->");
     }
 
     public void add(int data)
